@@ -1,28 +1,30 @@
-# Greenwing
+# Greenwing 500
 
 #### HQ
-##### Librarian 100 Punkte
+##### Librarian 110 Punkte
 Boltpistole  
 Psiwaffe  
 Fragmentgranaten  
 Sprenggranaten  
 Psimatrix  
-Leichentuch der Helden  
+Konverterfeld  
 Meisterschaftsgrad 2  
 
 #### Standard
-#####Tactical Squad 109 Punkte  
-5 Tactical Marines  
+#####Tactical Squad 105 Punkte  
+4 Tactical Marines  
 1 Veteran Sergeant  
+Kombi-Plasma  
 Bolter 
 Boltpistole  
 Fragmentgranaten  
 Sprenggranaten  
 Plasmawerfer  
 
-#####Tactical Squad 109 Punkte  
-5 Tactical Marines  
+#####Tactical Squad 105 Punkte  
+4 Tactical Marines  
 1 Veteran Sergeant  
+Kombi-Plasma  
 Bolter 
 Boltpistole  
 Fragmentgranaten  
