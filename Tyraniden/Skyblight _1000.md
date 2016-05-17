@@ -1,41 +1,46 @@
-####Kombiniertes Kontingent: Tyraniden (Hauptkontingent)  
+####Combined Arms Detachment: Tyranids (Hauptkontingent)  
 
-***************  2 HQ ***************  
+***************  1 HQ ***************  
+#####Tervigon  
+ + Stachelsalve 0 Pkt.  
+ + Schockmaden 10 Pkt.  
+ -> 205 Punkte  
+
+***************  2 Troops ***************  
+#####Termagant Brood  
+ + 10 x Fleshborer -> 0 Pts.  
+ -> 40 Pts.  
+
+#####Termagant Brood  
+ + 10 x Fleshborer -> 0 Pts.  
+ -> 40 Pts.  
+
+####Formation: Skyblight Swarm    
+
+***************  1 HQ ***************  
 #####Schwarmtyrant  
  + 2 x sync Neuralfresser mit Hirnwürmern -> 30 Pkt.  
  + Schockmaden  -> 10 Pkt.  
  + Flügel -> 35 Pkt.  
  -> 240 Punkte  
 
-#####Tervigon  
- + Stachelsalve 0 Pkt.  
- + Schockmaden 10 Pkt.  
- -> 205 Punkte  
-
-***************  2 Elite ***************  
-#####1 Toxothrope Brood
- -> 45 Punkte  
- 
-#####1 Zoanthrope Brood  
- + 2 zusätzliche Zoanthropes  
- + Neurothrope  
- -> 175 Punkte  
-
-***************  2 Standard ***************  
-#####15 Termaganten  
- + 15 x Bohrkäferschleudern -> 0 Pkt.  
- -> 60 Pkt.  
-
-#####15 Termaganten  
- + 15 x Bohrkäferschleudern -> 0 Pkt.  
- -> 60 Pkt.  
-
-***************  1 Fast Attack ***************  
-Schwarmdrude  
+***************  5 Fast Attack ***************  
+#####Schwarmdrude  
 -> 155 Pkt.
 
-***************  1 Heavy Support ***************  
-1 Biovore  
--> 40 Pkt.
+#####Harpy  
+-> 135 Pkt.  
 
-####Gesamtpunkte Tyraniden : 980 Pkt.
+#####Gargoyle Brood  
+ + 10 x Fleshborer -> 0 Pkt.  
+ -> 60 Pkt.  
+
+#####Gargoyle Brood  
+ + 10 x Fleshborer -> 0 Pkt.  
+ -> 60 Pkt.  
+
+#####Gargoyle Brood  
+ + 10 x Fleshborer -> 0 Pkt.  
+ -> 60 Pkt.  
+
+####Gesamtpunkte Tyraniden : 1130 Pkt.
