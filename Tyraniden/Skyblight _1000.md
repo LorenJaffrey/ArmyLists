@@ -18,8 +18,8 @@
 #####Hive Crone  
 -> 155 Pts.
 
-#####Harpy
- + Twin-linked heavy Venom Cannon -> 5 Pts.
+#####Harpy  
+ + Twin-linked heavy Venom Cannon -> 5 Pts.  
 -> 140 Pts.  
 
 #####Harpy  
