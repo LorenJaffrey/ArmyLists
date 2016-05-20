@@ -1,46 +1,40 @@
-####Combined Arms Detachment: Tyranids (Hauptkontingent)  
-
-***************  1 HQ ***************  
-#####Tervigon  
- + Stachelsalve 0 Pkt.  
- + Schockmaden 10 Pkt.  
- -> 205 Punkte  
-
 ***************  2 Troops ***************  
 #####Termagant Brood  
- + 10 x Fleshborer -> 0 Pts.  
  -> 40 Pts.  
 
 #####Termagant Brood  
- + 10 x Fleshborer -> 0 Pts.  
  -> 40 Pts.  
 
 ####Formation: Skyblight Swarm    
 
 ***************  1 HQ ***************  
-#####Schwarmtyrant  
- + 2 x sync Neuralfresser mit Hirnwürmern -> 30 Pkt.  
- + Schockmaden  -> 10 Pkt.  
- + Flügel -> 35 Pkt.  
- -> 240 Punkte  
+#####Hive Tyrant  
+ + 2 x Twin-linked Devourer with brainleech worms -> 30 Pts.  
+ + Electroshock grubs  -> 10 Pts.  
+ + Wings -> 35 Pts.  
+ -> 240 Pts. 
 
-***************  5 Fast Attack ***************  
-#####Schwarmdrude  
--> 155 Pkt.
+***************  6 Fast Attack ***************  
+#####Hive Crone  
+-> 155 Pts.
+
+#####Harpy
+ + Twin-linked heavy Venom Cannon -> 5 Pts.
+-> 140 Pts.  
 
 #####Harpy  
 -> 135 Pkt.  
 
 #####Gargoyle Brood  
- + 10 x Fleshborer -> 0 Pkt.  
- -> 60 Pkt.  
+ + 5 additional Gargoyles -> 30 Pts.  
+ -> 90 Pkt.  
 
 #####Gargoyle Brood  
- + 10 x Fleshborer -> 0 Pkt.  
- -> 60 Pkt.  
+ + 5 additional Gargoyles -> 30 Pts.  
+ -> 90 Pkt.  
 
 #####Gargoyle Brood  
- + 10 x Fleshborer -> 0 Pkt.  
- -> 60 Pkt.  
+ + 1 additional Gargoyle -> 6 Pts.  
+ -> 6 Pkt.  
 
-####Gesamtpunkte Tyraniden : 1130 Pkt.
+####Gesamtpunkte Tyraniden : 996 Pts.
