@@ -1,7 +1,7 @@
 
 *************** 1 HQ ***************  
-
-
+#####Deathleaper  
+ -> 130 Pts.  
 
 *************** 2 Troops ***************  
 #####Mucolid Spore Cluster  
@@ -23,7 +23,8 @@
 -> 155 Pts.
 
 #####Harpy  
--> 135 Pts.  
+ + Twin-linked heavy venom cannon -> 5 Pts.  
+-> 140 Pts.  
 
 #####Harpy  
 -> 135 Pkt.  
@@ -37,4 +38,4 @@
 #####Gargoyle Brood    
  -> 60 Pkt.  
 
-####Gesamtpunkte Tyraniden : 865 Pts.
+####Gesamtpunkte Tyraniden : 1000 Pts.
