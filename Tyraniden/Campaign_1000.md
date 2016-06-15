@@ -25,7 +25,7 @@
 ***************  3 Troops ***************  
 #####Termagant Brood
  + Fleshborer  
- + 15 additional Termagants  -> 60 Pts.
+ + 15 additional Termagants  -> 60 Pts.  
 -> 100 Pts.  
 
 #####Mucolid Spore Cluster  
@@ -36,7 +36,7 @@
  + Drool Cannon  
  + Four tentaclids  
  + Scything talons  
- + Stinger salvo -> 10 Pts.
+ + Stinger salvo -> 10 Pts.  
 -> 165 Pts.
 
 #####Harpy  
