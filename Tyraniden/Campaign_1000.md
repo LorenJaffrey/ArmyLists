@@ -7,11 +7,15 @@
 -> 230 Pts.  
 
 #####Tervigon 
+ + Stinger Salvo  
+ + Scything Talons  
  + Electroshock Grubs -> 10 Pts.  
 -> 205 Pts.  
 
 *************** 3 Elite ***************  
 #####Toxothrope Brood
+ + Lash Whips  
+ + Toxic Miasma  
 -> 45 Pts.  
  
 #####Zoanthrope Brood  
@@ -20,6 +24,7 @@
   
 ***************  3 Troops ***************  
 #####Termagant Brood
+ + Fleshborer  
  + 15 additional Termagants  -> 60 Pts.
 -> 100 Pts.  
 
@@ -27,11 +32,17 @@
 -> 15 Pts.  
 
 ***************  2 Fast Attack ***************  
-#####Hive Crone  
- + Stinger Salvo -> 10 Pts.
+#####Hive Crone
+ + Drool Cannon  
+ + Four tentaclids  
+ + Scything talons  
+ + Stinger salvo -> 10 Pts.
 -> 165 Pts.
 
 #####Harpy  
+ + Twin-linked stranglethorn cannon  
+ + Scything talons  
+ + Spore mine cysts  
 -> 135 Pts.
 
 ####Gesamtpunkte Tyraniden : 995 Pts.
