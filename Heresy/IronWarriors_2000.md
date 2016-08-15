@@ -2,9 +2,9 @@
 
 ### HQ  
 #### Legion Centurion  
-Legion Delegatus Consul -> 15 Pts
-Cataphracti Terminator Armour -> 35 Pts.
-Master Crafted Chainfist -> 10 Pts.
+Legion Delegatus Consul -> 15 Pts.  
+Cataphracti Terminator Armour -> 35 Pts.  
+Master Crafted Chainfist -> 10 Pts.  
 -> 110 Pts.  
 
 #### Lord Centurion  
@@ -26,6 +26,7 @@ Melta Bombs -> 50 Pts.
 
 #### Legion Tactical Squad  
 Nuncio Vox -> 10 Pts.  
+Melta Bombs -> 5 Pts.
 -> 135 Pts.  
 
 ### Elite  
@@ -50,4 +51,4 @@ Phosphex Shells
 #### Tyrant Siege Terminator Squad  
 -> 295 Pts.
 
-1985 Pts.
+1990 Pts.
