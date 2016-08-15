@@ -17,9 +17,9 @@ Melta Bombs -> 5 Pts.
 ### Troops  
 #### Legion Breacher Siege Squad  
 2 x Meltagun -> 30 Pts.  
-Nuncio Vox -> 10 Pts.
-Melta Bombs -> 50 Pts.
--> 290 Pts.
+Nuncio Vox -> 10 Pts.  
+Melta Bombs -> 50 Pts.  
+-> 290 Pts.  
 
 ##### Legion Land Raider Phobos  
 -> 225 Pts.  
