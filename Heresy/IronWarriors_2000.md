@@ -26,7 +26,7 @@ Melta Bombs -> 50 Pts.
 
 #### Legion Tactical Squad  
 Nuncio Vox -> 10 Pts.  
-Melta Bombs -> 5 Pts.
+Melta Bombs -> 5 Pts.  
 -> 135 Pts.  
 
 ### Elite  
