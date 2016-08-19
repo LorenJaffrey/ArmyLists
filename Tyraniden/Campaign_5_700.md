@@ -27,4 +27,4 @@
 #####Harpy  
 -> 135 Pts.
 
-####Gesamtpunkte Tyraniden : 995 Pts.
+####Gesamtpunkte Tyraniden : 697 Pts.
