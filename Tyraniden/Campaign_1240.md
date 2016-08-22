@@ -16,9 +16,13 @@
  
 #####Zoanthrope Brood  
  + 1 additional Zoanthrope -> 50 Pts.  
--> 100 Pts.  
+-> 100 Pts. 
+
+#####Hive Guard Brood
+ + 2 additional Hve Guards
+-> 165 Pts.
   
-***************  3 Troops ***************  
+***************  2 Troops ***************  
 #####Termagant Brood
  + 15 additional Termagants  -> 60 Pts.  
 -> 100 Pts.  
@@ -34,4 +38,4 @@
 #####Harpy  
 -> 135 Pts.
 
-####Gesamtpunkte Tyraniden : 995 Pts.
+####Gesamtpunkte Tyraniden : 1160 Pts.
