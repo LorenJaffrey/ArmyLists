@@ -4,7 +4,7 @@
 #####Hive Tyrant (Warlord)  
  + Twin-linked Devourer with brainleech worms -> 15 Pts.  
  + Twin-linked Devourer with brainleech worms -> 15 Pts.  
- + Wings -> 35 Pts.  
+ + Wings -> 35 Pts.
 -> 230 Pts.  
 
 #####Tervigon 
@@ -34,7 +34,7 @@
 ***************  2 Fast Attack ***************  
 #####Hive Crone
  + Stinger salvo -> 10 Pts.  
--> 165 Pts.
+-> 165 Pts.  
 
 #####Harpy  
 -> 135 Pts.
@@ -44,4 +44,4 @@
  + 1 additional Biovore 40 Pts.  
 -> 80 Pts.
 
-####Gesamtpunkte Tyraniden : 1160 Pts.
+####Gesamtpunkte Tyraniden : 1240 Pts.
