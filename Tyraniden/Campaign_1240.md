@@ -4,7 +4,7 @@
 #####Hive Tyrant (Warlord)  
  + Twin-linked Devourer with brainleech worms -> 15 Pts.  
  + Twin-linked Devourer with brainleech worms -> 15 Pts.  
- + Wings -> 35 Pts.
+ + Wings -> 35 Pts.  
 -> 230 Pts.  
 
 #####Tervigon 
