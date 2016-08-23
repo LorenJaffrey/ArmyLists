@@ -2,7 +2,8 @@
 
 *************** 2 HQ ***************  
 #####Hive Tyrant (Warlord)  
- + 2 x Twin-linked Devourer with brainleech worms -> 30 Pts.  
+ + Twin-linked Devourer with brainleech worms -> 15 Pts.  
+ + Twin-linked Devourer with brainleech worms -> 15 Pts.  
  + Wings -> 35 Pts.  
 -> 230 Pts.  
 
@@ -19,7 +20,7 @@
 -> 100 Pts. 
 
 #####Hive Guard Brood
- + 2 additional Hve Guards
+ + 2 additional Hive Guards
 -> 165 Pts.
   
 ***************  2 Troops ***************  
@@ -37,5 +38,10 @@
 
 #####Harpy  
 -> 135 Pts.
+
+***************  2 Heavy Support ***************  
+#####Biovore Brood
+ + 1 additional Biovore 40 Pts.  
+-> 80 Pts.
 
 ####Gesamtpunkte Tyraniden : 1160 Pts.
