@@ -41,7 +41,6 @@
 
 ***************  2 Heavy Support ***************  
 #####Biovore Brood
- + 1 additional Biovore 40 Pts.  
--> 80 Pts.
+-> 40 Pts.
 
-####Gesamtpunkte Tyraniden : 1240 Pts.
+####Gesamtpunkte Tyraniden : 1200 Pts.
