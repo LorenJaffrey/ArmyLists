@@ -29,8 +29,8 @@
   
 ***************  2 Troops ***************  
 #####Termagant Brood  
- + 25 Termagants  -> 100 Pts.  
--> 100 Pts.  
+ + 30 Termagants  -> 120 Pts.  
+-> 120 Pts.  
 
 #####Mucolid Spore Cluster  
  + 1 Mucolid Spore -> 15 Pts.  
@@ -44,7 +44,8 @@
 
 #####Harpy  
  + Harpy -> 135 Pts.  
--> 135 Pts.  
+ + Stinger salvo -> 10 Pts.  
+-> 145 Pts.  
 
 ***************  2 Heavy Support ***************  
 #####Biovore Brood  
@@ -57,4 +58,4 @@
  + Twin-linked Devourer with brainleech worms -> 15 Pts.  
 -> 150 Pts.  
 
-####Gesamtpunkte Tyraniden : 1470 Pts.
+####Gesamtpunkte Tyraniden : 1500 Pts.
