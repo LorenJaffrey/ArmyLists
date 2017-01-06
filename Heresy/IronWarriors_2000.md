@@ -1,25 +1,29 @@
 # Iron Warriors 2000
 
 ### HQ  
-#### Legion Centurion  
+#### Captain  
+Lord Centurion -> 50 Pts.  
 Legion Delegatus Consul -> 15 Pts.  
-Cataphracti Terminator Armour -> 35 Pts.  
-Master Crafted Chainfist -> 10 Pts.  
--> 110 Pts.  
-
-#### Lord Centurion  
-Siegebreaker -> 45 Pts.  
-Thunder Hammer -> 25 Pts.  
-Boarding Shield -> 10 Pts.  
+Artificer Armour -> 10 Pts.  
+Master Crafted Powerfist -> 20 Pts.  
 Melta Bombs -> 5 Pts.  
--> 135 Pts.  
+-> 100 Pts.  
+
+#### Commander  
+Lord Centurion -> 50 Pts.  
+Siegebreaker -> 45 Pts.  
+Terminator Armour -> 35 Pts.
+Combi-Melta -> 7 Pts.
+Chain Fist -> 10 Pts.  
+-> 147 Pts.  
 
 ### Troops  
 #### Legion Breacher Siege Squad  
 2 x Meltagun -> 30 Pts.  
 Nuncio Vox -> 10 Pts.  
-Melta Bombs -> 50 Pts.  
--> 290 Pts.  
+Melta Bombs -> 50 Pts. 
+Artificer Armour -> 10 Pts.
+-> 300 Pts.  
 
 ##### Legion Land Raider Phobos  
 -> 225 Pts.  
@@ -51,4 +55,4 @@ Phosphex Shells
 #### Tyrant Siege Terminator Squad  
 -> 295 Pts.
 
-1990 Pts.
+1997 Pts.
