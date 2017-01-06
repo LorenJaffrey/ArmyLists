@@ -30,9 +30,10 @@ Power Axe -> 10 Pts.
 
 #### Legion Tactical Squad  
 9 Tactical Marines, 1 Tactical Sergeant -> 125 Pts.  
+2 additional Tactical Marines -> 20 Pts.  
 Melta Bombs -> 5 Pts.  
 Artificer Armour -> 10 Pts.  
--> 140 Pts.  
+-> 160 Pts.  
 
 ### Elite  
 #### Legion Rapier Weapons Battery  
@@ -43,16 +44,20 @@ Phosphex canister shot -> 60 Pts.
 -> 270 Pts.  
 
 ### Heavy Support  
-#### Iron Havoc Support Squad  
-Missile Launchers -> 25 Pts.  
+#### Iron Havoc Support Squad
+4 Iron Havocs, 1 Iron Havoc Sergeant -> 185 Pts.  
+4 additional Iron Havocs -> 100 Pts.  
+9 x Missile Launchers -> 45 Pts.  
 Augury Scanner -> 5 Pts.  
--> 215 Pts.  
+Artificer Armour -> 10 Pts.  
+-> 345 Pts.  
 
 #### Legion Artillery Tank Squadron  
-2 Medusa Siege Tanks -> 310 Pts.  
--> 310 Pts.  
+1 Medusa Siege Tank -> 155 Pts.  
+-> 155 Pts.  
 
 #### Tyrant Siege Terminator Squad  
+4 Tyrant Terminators, 1 Tyrant Siege Master -> 295 Pts.  
 -> 295 Pts.
 
-1997 Pts.
+1992 Pts.
