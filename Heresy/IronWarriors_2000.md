@@ -12,8 +12,8 @@ Melta Bombs -> 5 Pts.
 #### Commander  
 Lord Centurion -> 50 Pts.  
 Siegebreaker -> 45 Pts.  
-Terminator Armour -> 35 Pts.
-Combi-Melta -> 7 Pts.
+Terminator Armour -> 35 Pts.  
+Combi-Melta -> 7 Pts.  
 Chain Fist -> 10 Pts.  
 -> 147 Pts.  
 
