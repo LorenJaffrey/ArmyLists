@@ -21,7 +21,7 @@ Chain Fist -> 10 Pts.
 9 Legion Breacher Marines, 1 Legion Breacher Sergeant -> 200 Pts.  
 2 x Meltagun -> 30 Pts.  
 Melta Bombs -> 50 Pts.  
-Artificer Armour -> 10 Pts. 
+Artificer Armour -> 10 Pts.  
 Power Axe -> 10 Pts.  
 -> 300 Pts.  
 
