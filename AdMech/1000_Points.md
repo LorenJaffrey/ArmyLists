@@ -34,27 +34,27 @@
 
 ####Skitarii Vanguard  
 - 10 Skitarii Vanguard -> 90 Pts.  
-- Radium Carbine -> 0 Pts.  
-- 3 Arc Rifle -> 12 Pts.  
--> 102 Pts.  
+- Radium Carbine -> 0 Pts. 
+- Arc Rifle -> 4 Pts.  
+-> 94 Pts.  
 
-###Heavy Support
+###Heavy Support  
 
 ####Onager Dunecrawler  
 - 1 Onager Dunecrawler -> 90 Pts.  
-- Neutron Laser and Cognis Heavy Stubber -> 53 Pts.  
+- Neutron Laser and Cognis Heavy Stubber -> 50 Pts.  
 - Broad Spectrum Data Tether -> 0 Pts.  
--> 143 Pts.  
+-> 140 Pts.  
 
-658 Pts.
+####Onager Dunecrawler  
+- 1 Onager Dunecrawler -> 90 Pts.  
+- Icarus Array -> 40 Pts.  
+- Broad Spectrum Data Tether -> 0 Pts.  
+-> 130 Pts.  
 
-##Spearhead Detachment
+####Kastelan Robots  
+- 2 Castelan Robots -> 130 Pts.  
+- Heavy Phosphor Blasters -> 90 Pts.  
+-> 220 Pts.  
 
-####Tech-Priest Enginseer   
-- Tech-Priest Enginseer -> 40 Pts.  
-- Laspistol -> 0 Pts.  
-- Omnissian Axe -> 0 Pts.  
-- Servo-Arm -> 12 Pts.  
--> 52 Pts.  
-
-####Castelan Robots
+997 Pts.
