@@ -9,6 +9,8 @@
 - Phospor Serpenta -> 4 Pts.  
 - Omnissian Axe -> 0 Pts.  
 - Volkite Blaster -> 8 Pts.  
+- Trait: Necromechanicus
+- Relic: Autocaduceus of Arkhan Land
 -> 127 Pts.  
 
 ####Tech-Priest Enginseer   
@@ -29,13 +31,28 @@
 ####Skitarii Vanguard  
 - 10 Skitarii Vanguard -> 80 Pts.  
 - Radium Carbine -> 0 Pts.  
-- 3 Plasma Caliver -> 42 Pts.  
--> 122 Pts.  
+- 2 Plasma Caliver -> 28 Pts.  
+-> 108 Pts.  
 
-####Skitarii Vanguard  
-- 10 Skitarii Vanguard -> 80 Pts.  
-- Radium Carbine -> 0 Pts. 
--> 80 Pts.  
+####Kataphron Destroyers
+- 3 Kataphron Destroyers -> 90 Pts.  
+- Heavy Grav Cannon -> 90 Pts.  
+-> 180 Pts.
+
+###Elite
+
+####Sicarian Infiltrators  
+- 5 Sicarian Infiltrators -> 80 Pts.  
+- Storm Carbine -> 10 Pts.  
+- Power Sword -> 20 Pts.  
+-> 110 Pts.
+
+###Fast Attack
+
+####Sydonian Dragoon
+- 1 Sydonian Dragoon -> 59 Pts.  
+- Taser Lance -> 9 Pts.  
+-> 68 Pts.  
 
 ###Heavy Support  
 
@@ -51,9 +68,4 @@
 - Broad Spectrum Data Tether -> 0 Pts.  
 -> 130 Pts.  
 
-####Kastelan Robots  
-- 2 Castelan Robots -> 130 Pts.  
-- Heavy Phosphor Blasters -> 90 Pts.  
--> 220 Pts.  
-
-951 Pts.
+995 Pts.
